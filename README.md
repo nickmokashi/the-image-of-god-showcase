@@ -24,13 +24,13 @@ sharply reality lets the edge of the mystery be drawn.
 
 | | |
 |---|---|
-| Units drafted | **40 of 40**, prologue through epilogue |
-| Prose | **69,916 words** |
-| Working notes not shown to the reader | **27,840 words** |
-| Sources in the ledger | **74** |
-| Verified by actually opening the page | **52** |
-| Trace Atlas records | 14 |
-| Candidate models of ultimate reality | 11 |
+| Units drafted | **48**, prologue through epilogue |
+| Prose | **111,060 words** |
+| Working notes not shown to the reader | **45,237 words** |
+| Sources in the book's ledger | **262** |
+| Verified by opening the page, with author, year and title checked against the record | **255** |
+| Trace Atlas records | 13 |
+| Candidate models of ultimate reality | 25 |
 | Chapter research files | 42 |
 
 Research runs **Monday, Wednesday and Friday**. Each session takes one open topic, verifies its
@@ -77,7 +77,7 @@ for one thing. Their differences are data.
 
 ---
 
-## Four times the method cost something
+## Five times the method cost something
 
 A method that never costs you anything is decoration. These are the receipts.
 
@@ -101,6 +101,13 @@ convergence worth considerably less than the loose version had suggested.
 detected one of the forgeries himself, in 1268, as soon as a second independent text became
 available. That is a partial reversal, it runs in favour of the man the book had been discounting,
 and it is in the book.
+
+**The source check itself had a blind spot.** For a week it confirmed each source by its title. When it
+began comparing author lists, years and volumes against the publishers' records as well, it found errors
+the title check had passed: an encyclopedia entry credited to the wrong person, a wrong first name, an
+author initial nobody could confirm, a reversed title, and a detail in a medieval example that the
+original text never had. All corrected, and the checker now looks at who wrote a thing, not only what
+it is called.
 
 ---
 
