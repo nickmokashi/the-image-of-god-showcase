@@ -24,11 +24,11 @@ sharply reality lets the edge of the mystery be drawn.
 
 | | |
 |---|---|
-| Units drafted | **48**, prologue through epilogue |
-| Prose | **111,060 words** |
-| Working notes not shown to the reader | **45,237 words** |
-| Sources in the book's ledger | **262** |
-| Verified by opening the page, with author, year and title checked against the record | **255** |
+| Units drafted | **55**, prologue through epilogue |
+| Prose | **126,756 words** |
+| Working notes not shown to the reader | **51,096 words** |
+| Sources in the book's ledger | **342** |
+| Verified by opening the page, with author, year and title checked against the record | **331** |
 | Trace Atlas records | 13 |
 | Candidate models of ultimate reality | 25 |
 | Chapter research files | 42 |
@@ -116,6 +116,11 @@ it is called.
 **Underdetermination with asymmetric pressure.** The evidence does not return one answer and does not
 leave the candidates equal.
 
+A survey of the gods of every inhabited continent found one move again and again: **wherever a tradition
+thought hardest about its gods, the true God stopped being one of them.** The book counts that as at least
+three independent witnesses, not a dozen, because most of them share one Greek line of descent, and it says
+what else could explain the pattern.
+
 What it prices is not religions but **attributes**, and the most expensive bundle on the board is
 unlimited intervening power plus perfect goodness plus complete knowledge plus wanting to be known by
 everyone.
@@ -132,7 +137,7 @@ Plain Markdown chapters, one file each, every one ending in a working-notes bloc
 strips before the reader sees it. Those notes carry what has *not* been read, what is paraphrase
 risk, and what a later pass must not quietly tidy away.
 
-A Python toolchain turns the folder into a typeset 6 x 9 book on a 16-point baseline grid, with
+A Python toolchain turns the folder into a typeset 7 x 10 book on a 16-point baseline grid, with
 mirrored margins, embedded fonts and KDP-correct cover sizes, and emails the PDF to a Kindle Scribe.
 Figures are declared with a one-line marker in the Markdown.
 
