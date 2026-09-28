@@ -41,11 +41,11 @@ sharply reality lets the edge of the mystery be drawn.
 
 | | The Image of God | The Counterimage |
 |---|---|---|
-| Chapters | **55**, prologue through epilogue | **54** |
-| Prose | **126,756 words** | **101,204 words** |
-| Working notes not shown to the reader | **51,096 words** | **10,317 words** |
-| Sources in the citation ledger | **342** | **127** |
-| Verified by opening the page, with author, year and title checked against the record | **331** | **127** |
+| Chapters | **56**, prologue through epilogue | **55** |
+| Prose | **129,573 words** | **103,863 words** |
+| Working notes not shown to the reader | **53,485 words** | **12,854 words** |
+| Sources in the citation ledger | **359** | **146** |
+| Verified by opening the page, with author, year and title checked against the record | **347** | **146** |
 | Trace Atlas records | 13 | |
 | Candidate models of ultimate reality | 25 | |
 
@@ -53,10 +53,15 @@ Research runs **Monday, Wednesday and Friday** on both books. Each session takes
 verifies its sources by opening them, tries to close it, raises the version of both books, and sends new
 copies to the Kindle.
 
-**The most recent run went round the world.** Seven paired chapters on the gods of every inhabited
-continent and what each tradition said stands behind them, mirrored by the demons of each and what each
-tradition made of a single Adversary. Seventy new sources on one side and sixty on the other, each
-opened before it was used.
+**The most recent run went back to the originals.** Five paired passes, every quoted line checked against
+its page. A Byzantine historian in his own Greek and a twelfth-century chronicle in its Latin, which
+corrected a line in one book. The morning star, a title the Latin Bible gives to both Christ and the devil.
+Physics' unmeasurable zero beside evil as an absence with a floor nothing reaches. Two new chapters on
+heaven and hell as states rather than places. And the books' director put his own model on the board,
+where it is scored like every other.
+
+**The run before it went round the world**: the gods of every inhabited continent, mirrored by the demons
+of each.
 
 ---
 
