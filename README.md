@@ -42,10 +42,10 @@ sharply reality lets the edge of the mystery be drawn.
 | | The Image of God | The Counterimage |
 |---|---|---|
 | Chapters | **56**, prologue through epilogue | **55** |
-| Prose | **129,573 words** | **103,863 words** |
-| Working notes not shown to the reader | **53,485 words** | **12,854 words** |
-| Sources in the citation ledger | **359** | **146** |
-| Verified by opening the page, with author, year and title checked against the record | **347** | **146** |
+| Prose | **130,516 words** | **104,561 words** |
+| Working notes not shown to the reader | **54,382 words** | **13,554 words** |
+| Sources in the citation ledger | **364** | **151** |
+| Verified by opening the page, with author, year and title checked against the record | **352** | **151** |
 | Trace Atlas records | 13 | |
 | Candidate models of ultimate reality | 25 | |
 
@@ -58,7 +58,9 @@ its page. A Byzantine historian in his own Greek and a twelfth-century chronicle
 corrected a line in one book. The morning star, a title the Latin Bible gives to both Christ and the devil.
 Physics' unmeasurable zero beside evil as an absence with a floor nothing reaches. Two new chapters on
 heaven and hell as states rather than places. And the books' director put his own model on the board,
-where it is scored like every other.
+where it is scored like every other. Two more passes followed: the throne no angel could look at, and
+the older story in which the Adversary falls for refusing to honour the image of God; then the loss of self
+as psychologists measure it, felt as bliss by some and as dread by others.
 
 **The run before it went round the world**: the gods of every inhabited continent, mirrored by the demons
 of each.
