@@ -41,19 +41,27 @@ sharply reality lets the edge of the mystery be drawn.
 
 | | The Image of God | The Counterimage |
 |---|---|---|
-| Chapters | **56**, prologue through epilogue | **55** |
-| Prose | **130,516 words** | **104,561 words** |
-| Working notes not shown to the reader | **54,382 words** | **13,554 words** |
-| Sources in the citation ledger | **364** | **151** |
-| Verified by opening the page, with author, year and title checked against the record | **352** | **151** |
+| Chapters | **58**, prologue through epilogue | **57** |
+| Prose | **135,357 words** | **109,405 words** |
+| Working notes not shown to the reader | **57,978 words** | **17,149 words** |
+| Sources in the citation ledger | **388** | **167** |
+| Verified by opening the page, with author, year and title checked against the record | **376** | **167** |
 | Trace Atlas records | 13 | |
 | Candidate models of ultimate reality | 25 | |
 
-Research runs **Monday, Wednesday and Friday** on both books. Each session takes one open topic,
+Research runs **twice a week, on Thursdays and Saturdays**, on both books. Each session takes one open topic,
 verifies its sources by opening them, tries to close it, raises the version of both books, and sends new
 copies to the Kindle.
 
-**The most recent run went back to the originals.** Five paired passes, every quoted line checked against
+**The most recent run went looking for the people.** Two paired passes. Seven faiths, most of them young, that heard one God
+again, in Vietnam, Japan, Korea, Iran, the Levant, Iraq and Jamaica, set beside the people who actually chose the
+Adversary's name, most of whom turned out not to believe in him. Then the line between the two: God read as the
+villain, from a second-century heretic to a modern philosophy journal, and the Adversary read as the bringer of
+light, from the oldest readers of Eden to Blake and Shelley. The books' director put his own claim on the board, that
+it all comes down to perspective and how you were raised. It held in a narrow form: the face people see tracks how
+they were raised. What it is the face of, the evidence does not say.
+
+**The run before it went back to the originals.** Five paired passes, every quoted line checked against
 its page. A Byzantine historian in his own Greek and a twelfth-century chronicle in its Latin, which
 corrected a line in one book. The morning star, a title the Latin Bible gives to both Christ and the devil.
 Physics' unmeasurable zero beside evil as an absence with a floor nothing reaches. Two new chapters on
@@ -62,7 +70,7 @@ where it is scored like every other. Two more passes followed: the throne no ang
 the older story in which the Adversary falls for refusing to honour the image of God; then the loss of self
 as psychologists measure it, felt as bliss by some and as dread by others.
 
-**The run before it went round the world**: the gods of every inhabited continent, mirrored by the demons
+**Before that, the books went round the world**: the gods of every inhabited continent, mirrored by the demons
 of each.
 
 ---
@@ -159,6 +167,10 @@ hardest about its demons, **the single Adversary stopped being a demon**: an off
 refusal, a principle, a lack. In the best-documented case he can be watched being assembled, text by text.
 The books count the first as at least three independent witnesses, not a dozen, because most of them share
 one line of descent, and they say what else could explain it.
+
+And when the books went looking for the people who worship the Adversary on purpose, they found very few, and
+most of them do not believe he exists. In the only survey there is, three in five called him a symbol, and three in
+four had been raised Christian. **The Adversary has been drawn almost entirely by the people who feared him.**
 
 ---
 
