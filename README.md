@@ -42,10 +42,10 @@ sharply reality lets the edge of the mystery be drawn.
 | | The Image of God | The Counterimage |
 |---|---|---|
 | Chapters | **58**, prologue through epilogue | **57** |
-| Prose | **135,357 words** | **109,405 words** |
-| Working notes not shown to the reader | **57,978 words** | **17,149 words** |
-| Sources in the citation ledger | **388** | **167** |
-| Verified by opening the page, with author, year and title checked against the record | **376** | **167** |
+| Prose | **135,866 words** | **110,857 words** |
+| Working notes not shown to the reader | **58,605 words** | **18,739 words** |
+| Sources in the citation ledger | **393** | **175** |
+| Verified by opening the page, with author, year and title checked against the record | **381** | **175** |
 | Trace Atlas records | 13 | |
 | Candidate models of ultimate reality | 25 | |
 
@@ -59,7 +59,9 @@ Adversary's name, most of whom turned out not to believe in him. Then the line b
 villain, from a second-century heretic to a modern philosophy journal, and the Adversary read as the bringer of
 light, from the oldest readers of Eden to Blake and Shelley. The books' director put his own claim on the board, that
 it all comes down to perspective and how you were raised. It held in a narrow form: the face people see tracks how
-they were raised. What it is the face of, the evidence does not say.
+they were raised. What it is the face of, the evidence does not say. A follow-up the same day connected the dots: the old Gnostic
+books gave their false god the Adversary's own name, one phrase of Paul's was read within a single lifetime as the
+Creator, the devil and God, and for close to four hundred years whole churches taught that Satan made the world.
 
 **The run before it went back to the originals.** Five paired passes, every quoted line checked against
 its page. A Byzantine historian in his own Greek and a twelfth-century chronicle in its Latin, which
