@@ -42,7 +42,7 @@ sharply reality lets the edge of the mystery be drawn.
 | | The Image of God | The Counterimage |
 |---|---|---|
 | Chapters | **58**, prologue through epilogue | **57** |
-| Prose | **135,866 words** | **110,857 words** |
+| Prose (Version 48, 8 October 2026) | **132,466 words**, 475 pages | **109,724 words**, 472 pages |
 | Working notes not shown to the reader | **58,605 words** | **18,739 words** |
 | Sources in the citation ledger | **393** | **175** |
 | Verified by opening the page, with author, year and title checked against the record | **381** | **175** |
@@ -53,7 +53,12 @@ Research runs **twice a week, on Thursdays and Saturdays**, on both books. Each 
 verifies its sources by opening them, tries to close it, raises the version of both books, and sends new
 copies to the Kindle.
 
-**The most recent run went looking for the people.** Two paired passes. Seven faiths, most of them young, that heard one God
+**The most recent pass was not research.** Version 48 was a refinement pass, briefed by Solina: no new sources, no new
+chapters, only repetition removed, rules restated chapter after chapter, sections that landed twice, and in *The
+Counterimage* a habit of one sentence per paragraph. *The Image of God* went from 485 pages to 475, *The Counterimage*
+from 510 to 472, and every claim, citation, objection and both endings stayed as they were.
+
+**The run before it went looking for the people.** Two paired passes. Seven faiths, most of them young, that heard one God
 again, in Vietnam, Japan, Korea, Iran, the Levant, Iraq and Jamaica, set beside the people who actually chose the
 Adversary's name, most of whom turned out not to believe in him. Then the line between the two: God read as the
 villain, from a second-century heretic to a modern philosophy journal, and the Adversary read as the bringer of
